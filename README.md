@@ -30,6 +30,21 @@ But it takes time to create workshops, and I never took the time to have cheatsh
 This repository is here for me to pin down basic knowledge paths to teach and create RTFM on those points in 2026.      
 
 
+**Homework:** If you are here, you want to learn how to use electricity. So subscribe to ElectoBOOM and give him a like on all his video through the year.
+[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/907ae903-6476-40ea-99e8-4103b1fe9bf2" />](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA)  
+https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA  
+
+If you are French and want to learn a bit about High Voltage electricity.
+So the same for this channel:
+[<img width="570" height="243" alt="image" src="https://github.com/user-attachments/assets/d3e6f451-c08b-42a9-a4eb-91c14f153761" />](https://www.youtube.com/@monsieurbidouille)
+
+
+If you want to learn from a previous workshop on electricity I was building: Hello Safe Firework
+[<img width="3677" height="1000" alt="image" src="https://github.com/user-attachments/assets/1dd48ac6-726f-42d2-9cff-5ad8c977c2ec" />](https://github.com/EloiStree/HelloRemoteFirework/wiki)  
+https://github.com/EloiStree/HelloRemoteFirework/wiki   
+
+
+
 
 --------------
 
