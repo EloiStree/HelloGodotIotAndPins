@@ -27,7 +27,7 @@ Ping me the issue with what you need to learn: [Issues](https://github.com/EloiS
 We asked me to teach at [https://www.ifapme.be/](https://www.ifapme.be/).  
 I had in mind hundreds of small topics linked to IoT that I would love to teach.     
 But it takes time to create workshops, and I never took the time to have cheatsheets on the main topics.    
-This repository is here for me to pin down basic knowledge paths to teach and create RTFM on those points.    
+This repository is here for me to pin down basic knowledge paths to teach and create RTFM on those points in 2026.      
 
 
 
