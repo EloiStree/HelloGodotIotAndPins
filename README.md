@@ -14,6 +14,11 @@ All I can do is teach the basics while re-learning them myself.
 
 This repository will be an introduction to electricity with Raspberry Pi, Arduino, and ESP32—just enough to get people started during a hackathon or a three-week introduction in a school or training center.
 
+> Warning: Mastering the magic of electricity can take years.
+> ElectroBOOM is a professional at it—and even he is still discovering the strange ways electricity behaves in his videos:
+> https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA
+> As for me, I’m just a game developer who knows how to make LEDs blink and read buttons via UART Bluetooth… 😉
+
 
 **Hackathon here**: You started a hackathon and you want to pratice.   
 Ping me the issue with what you need to learn: [Issues](https://github.com/EloiStree/HelloGodotIotAndPins/issues)  
